@@ -1,0 +1,17 @@
+    body{
+      background-color: #A7CEFC;
+    }
+
+    #headline{
+      color: #529FF9;
+    }
+
+    #dataTitle {
+      font-style: italic;
+      color: #2C211B;
+    }
+    
+    #articles {
+      overflow: scroll;
+      height:450px;
+    }
